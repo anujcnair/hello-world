@@ -1,1 +1,1 @@
-System.out.println("ABC"):
+System.out.println("ABC");
